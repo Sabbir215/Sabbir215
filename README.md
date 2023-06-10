@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sabbir215
+- 👋 Hi, I’m Sabbir
 - 👀 I’m interested in nural nerwork
 - 🌱 I’m currently learning web python
-- 💞️ I’m looking to collaborate with elon
+- 💞️ I’m looking to collaborate with 
 - 📫 How to reach me shafikulislam215@gmail.com
 
 <!---
