@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ibrahim Sabbir
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with 
 - 📫 How to reach me shafikulislam215@gmail.com
 
